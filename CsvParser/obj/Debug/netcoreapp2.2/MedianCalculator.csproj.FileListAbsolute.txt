@@ -1,0 +1,13 @@
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\MedianCalculator.deps.json
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\MedianCalculator.runtimeconfig.json
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\MedianCalculator.runtimeconfig.dev.json
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\MedianCalculator.dll
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\MedianCalculator.pdb
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.csproj.CoreCompileInputs.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.RazorAssemblyInfo.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.RazorAssemblyInfo.cs
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.AssemblyInfoInputs.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.AssemblyInfo.cs
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.RazorTargetAssemblyInfo.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.dll
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\MedianCalculator.pdb

@@ -1,0 +1,17 @@
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.csprojAssemblyReference.cache
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.csproj.CoreCompileInputs.cache
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.AssemblyInfoInputs.cache
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.AssemblyInfo.cs
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianServiceTest.deps.json
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianServiceTest.runtimeconfig.json
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianServiceTest.runtimeconfig.dev.json
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianServiceTest.dll
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianServiceTest.pdb
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianCalculator.dll
+C:\Ami\CsvParser\CsvParser\TestController\bin\Debug\netcoreapp2.2\MedianCalculator.pdb
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.csproj.CopyComplete
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.dll
+C:\Ami\CsvParser\CsvParser\TestController\obj\Debug\netcoreapp2.2\MedianServiceTest.pdb

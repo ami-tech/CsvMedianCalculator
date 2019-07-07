@@ -1,0 +1,13 @@
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.csproj.CoreCompileInputs.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.AssemblyInfoInputs.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.AssemblyInfo.cs
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.RazorAssemblyInfo.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.RazorAssemblyInfo.cs
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\CsvParser.deps.json
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\CsvParser.runtimeconfig.json
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\CsvParser.runtimeconfig.dev.json
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\CsvParser.dll
+C:\Ami\CsvParser\CsvParser\CsvParser\bin\Debug\netcoreapp2.2\CsvParser.pdb
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.RazorTargetAssemblyInfo.cache
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.dll
+C:\Ami\CsvParser\CsvParser\CsvParser\obj\Debug\netcoreapp2.2\CsvParser.pdb
